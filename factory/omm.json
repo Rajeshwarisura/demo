@@ -1,0 +1,9 @@
+{
+	"name": "omm",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9e18772-d567-4d8c-9593-dc1f781d5773",
+		"tenantId": "b3d6a32e-7c0d-43ba-9b29-8bbb25397957"
+	}
+}
