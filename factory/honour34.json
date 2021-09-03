@@ -1,0 +1,9 @@
+{
+	"name": "honour34",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b95bd40a-3d27-45e2-af09-f2b1b1fe4190",
+		"tenantId": "b3d6a32e-7c0d-43ba-9b29-8bbb25397957"
+	}
+}
